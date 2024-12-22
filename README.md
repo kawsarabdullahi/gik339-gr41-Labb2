@@ -38,7 +38,7 @@ INSERT INTO users (firstName, lastName, username, color) VALUES
 ('Sara', 'Lind', 'h22sara', 'blue'),
 ('Omar', 'Yusuf', 'h23omar', 'red'),
 ('Hassan', 'Ali', 'h22hassan', 'green'),
-('Fatima', 'Hussein', 'h23fatima', 'yellow'),
+('Fatima', 'Hussein', 'h23fatima', 'White'),
 ('Aisha', 'Mohamed', 'h22aisha', 'red'),
 ('Musa', 'Khan', 'h23musa', 'blue'),
 ('Linda', 'Nilsson', 'h22linda', 'green');
