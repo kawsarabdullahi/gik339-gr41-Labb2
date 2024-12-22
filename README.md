@@ -2,7 +2,7 @@
 Labb 2 för kurs GIK339: Backend och Frontend-applikation med Node.js, Express och SQLite.
 
 
-# Terminalens loggar och relevanta steg
+# Terminalens loggar 
 
 ## 1. Skapande av projekt och installation av nödvändiga moduler
 ```bash
