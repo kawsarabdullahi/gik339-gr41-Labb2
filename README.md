@@ -50,5 +50,3 @@ node server.js
 http://localhost:3000/users
 # Lösning: Installera om modulen
 npm install sqlite3 --save
-# Lösning: Använd korrekt SQL-syntax
-UPDATE users SET color = 'yellow' WHERE username = 'h23fatima';
